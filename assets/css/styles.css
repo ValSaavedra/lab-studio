@@ -1,0 +1,29 @@
+*{
+
+	}
+
+*DISEÑO NAVBAR*/
+.navbar-inverse .navbar-fixed-top{
+	background-color: transparent;
+	border: none;
+}
+.navbar-inverse .navbar-nav li a{
+	color: white;
+	transition: .5s all ease;
+}
+.navbar-inverse .navbar-nav li a:hover{
+	color: #83B271;
+	font-style: italic;
+	font-weight: bold;
+	cursor: pointer;
+	transition: .5s all ease
+	text-shadow: 2px 2px #ff0000;
+}
+
+
+
+.navbar-brand{
+	font-family: 'Lobster', cursive;
+	font-size: 3rem;
+}
+
